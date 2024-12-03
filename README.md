@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there! 👋 I'm Insiyah
 
-<!--
-**Insiyah81/Insiyah81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **beginner in the data field** with a passion for learning and exploring the world of data analysis and visualization. My journey is all about diving into tools and techniques to uncover meaningful insights from data.
 
-Here are some ideas to get you started:
+## 💻 Tools and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Data Visualization**:  
+  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+
+- **Data Analysis**:  
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+
+- **Database Management**:  
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  
+
+- **Programming**:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+## 🌱 What I'm Working On
+- Building hands-on projects to enhance my skills in Python, SQL, and data visualization tools.    
+- Developing my portfolio to showcase real-world applications of data analysis.  
+
+## 🛠️ Skills
+- **Data Cleaning & Transformation**: Proficient in preparing raw datasets for analysis.  
+- **Visualization & Storytelling**: Creating dashboards and visual reports that convey actionable insights.  
+- **SQL Queries**: Writing queries to extract, manipulate, and analyze data from relational databases.  
+- **Python Scripting**: Utilizing libraries like Pandas, NumPy, and Matplotlib for data manipulation and visualization.  
+
+## 📚 Learning Goals
+- Mastering advanced analytics and predictive modeling techniques.  
+- Getting certified in Power BI and Tableau.  
+- Building end-to-end data pipelines.  
+
+## 🤝 Let's Connect
+I'm always open to collaboration, feedback, and learning opportunities!  
+- 💼 www.linkedin.com/in/
+insiyah-badani-715s
+  
+
